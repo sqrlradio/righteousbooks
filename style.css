@@ -1,0 +1,59 @@
+body {
+    text-align: center;
+  }
+  
+  h1 {
+    font-family: 'Permanent Marker';
+    font-size: 30px;
+    text-align: center;
+    padding: 25px;
+    border-style: groove;
+    border-width: 10px;
+    border-color: gray;
+    }
+  
+  h2 { 
+    font-family: 'Permanent Marker';
+    font-weight: light;
+    font-size: 25px;
+    border: inset; 
+    border-color: gray;
+    margin: 35px;
+  }
+  
+  h3 {
+    border-bottom-style: solid;
+    border-width: 1px;
+    margin: 10px;
+  }
+  
+  p {
+    margin: 25px;
+  }
+  
+  ul{
+   list-style-type: none;
+  }
+  
+  #list-title {
+    text-align: center;
+    border-width: 5px;
+    margin: 50px;
+  }
+  
+  .fiction {
+    float: left;
+    padding: 50px;
+    width: 33.33%;
+  }
+  
+  .non-fiction {
+    float: Right;
+    width: 33.33%;
+    padding: 50px;
+  }
+  
+  .body {
+    margin: 400px;
+    text-align: center;
+  }
